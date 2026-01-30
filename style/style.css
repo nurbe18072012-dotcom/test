@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.wrapp {
+  background-image: url(../assets/svg/Rectangle\ 37.svg);
+}
